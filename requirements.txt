@@ -1,7 +1,7 @@
 # base application dependencies
 
 alembic==1.4.3            # via flask-migrate
-amqp==2.5.2               # via kombu
+amqp==5.0.6               # via kombu
 babel==2.9.0              # via flask-babel, sphinx
 bcrypt==3.2.0             # via flask-user
 billiard==3.6.3.0         # pyup: < 4.0  # pin until celery upgraded # via celery
