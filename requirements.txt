@@ -40,7 +40,7 @@ json-logging==1.3.0
 kombu==4.6.6              # pyup: < 5.0 # via celery
 mako==1.1.0               # via alembic
 markupsafe==1.1.1           # via jinja2, mako
-oauthlib==2.1.0 # pyup: < 3.0.0  # pin until flask-oauthlib, flask-dance, requests-oauthlib upgraded
+oauthlib==3.1.0 # pyup: < 3.0.0  # pin until flask-oauthlib, flask-dance, requests-oauthlib upgraded
 onetimepass==1.0.1
 passlib==1.7.1            # via flask-user
 polib==1.1.1
