@@ -17,7 +17,7 @@ psycopg2-binary==2.8.6
 py==1.10.0                # via tox
 pygments==2.7.4           # via sphinx
 pyparsing==2.4.7          # via packaging
-pytest==5.2.2
+pytest==6.2.4
 pytest-flask==0.15.1
 pytest-timeout==1.4.2
 selenium==3.141.0
