@@ -3,7 +3,7 @@
 
 alabaster==0.7.12         # via sphinx
 beautifulsoup4==4.9.3     # via webtest
-docutils==0.14            # via sphinx
+docutils==0.17.1            # via sphinx
 flask-testing==0.8.1
 flask-webtest==0.0.9
 imagesize==1.1.0          # via sphinx
