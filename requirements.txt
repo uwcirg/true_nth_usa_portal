@@ -55,7 +55,7 @@ pytz==2020.5              # via babel, celery
 pyyaml==5.4              # via flask-swagger, swagger-spec-validator
 redis==3.5.3
 requests-cache==0.5.2
-requests-oauthlib==1.1.0  # pyup: <1.2.0 # pin until OAuthlib>=3.0.0 # via flask-oauthlib
+requests-oauthlib==1.3.0  # pyup: <1.2.0 # pin until OAuthlib>=3.0.0 # via flask-oauthlib
 requests==2.25.1          # via flask-recaptcha, requests-cache, requests-oauthlib, sphinx
 six==1.14.0               # via bcrypt, packaging, python-dateutil, python-memcached, sphinx, swagger-spec-validator, tox, validators, webtest
 sqlalchemy==1.3.11         # via alembic, flask-sqlalchemy
