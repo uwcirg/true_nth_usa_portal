@@ -36,7 +36,7 @@
     "gulp-cli": "^2.1.0",
     "gulp-concat": "^2.6.1",
     "gulp-less": "^4.0.1",
-    "gulp-merge-json": "^1.2.0",
+    "gulp-merge-json": "^2.1.1",
     "gulp-rename": "^1.2.2",
     "gulp-sourcemaps": "^2.6.5",
     "gulp-using": "^0.1.1",
